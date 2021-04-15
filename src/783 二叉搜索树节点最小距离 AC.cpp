@@ -1,3 +1,9 @@
+/*Date:2021/4/13
+完成了支持完整输入输出的程序，包括如下部分：
+1. 根据[98,78,null,66,79]这种格式的输入构建BST
+2. 打印BST
+3. 计算最小距离并输出
+*/
 #define _CRT_SECURE_NO_WARNINGS
 #include<iostream>
 #include<string>
