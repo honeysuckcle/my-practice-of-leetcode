@@ -29,3 +29,13 @@
 
 [264. 丑数Ⅱ ugly-number-ii](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/264%20%E4%B8%91%E6%95%B02%20AC.cpp)
 
+### 题目难度——困难
+
+[87. 扰乱字符串 scramble-string](/hard/scramble-string.cpp)
+动态规划——转移方程：
+$$
+f(s_1,s_2)= ⋁_{i=1}^{n−1}(f(s_1[0,i],s_2[0,i])∧f(s_1[i,n−i],s_2[i,n−i]))\\
+或⋁_{i=1}^{n−1}(f(s_1[0,i],s_2[n-i,i])∧f(s_1[i,n−i],s_2[0,n−i]))
+$$
+
+其中：n表示s1.length==s2.length，*s*1(*x*,*y*) 表示从 *s*1 从第 x个字符（从 0开始编号）开始，长度为 y的子串
