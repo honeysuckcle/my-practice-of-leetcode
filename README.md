@@ -34,6 +34,6 @@
 [87. 扰乱字符串 scramble-string](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/hard/87%20scramble-string.cpp)
 动态规划——转移方程：
 
-![](./pic/87.png)
+![转移方程](./pic/87.png)
 
 其中：n表示s1.length==s2.length，*s*1(*x*,*y*) 表示从 *s*1 从第 x个字符（从 0开始编号）开始，长度为 y的子串
