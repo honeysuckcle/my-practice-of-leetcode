@@ -10,6 +10,8 @@
 
 恳请大家批评指正！
 
+看到一个解决github无法显示图片的解决办法，指路☞[【小技巧】(超详细！)解决Github无法显示图片以及README无法显示图片](https://blog.csdn.net/qq_41709370/article/details/106282229)
+
 ### 题目难度——简单
 
 [26. 删除有序数组中的重复项](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/26 remove-duplicates-from-sorted-array.cpp)
