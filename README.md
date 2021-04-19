@@ -19,7 +19,7 @@
 [783. 二叉搜索树节点最小距离 minimum-distance-between-bst-nodes](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/783%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%8A%82%E7%82%B9%E6%9C%80%E5%B0%8F%E8%B7%9D%E7%A6%BB%20AC.cpp)
 这道题和第530题要解决的问题相同
 
-![783 运行截图](pic/783.jpg)
+![783 运行截图 /pic/783.jpg](pic/783.jpg)
 
 
 ### 题目难度——中等
@@ -39,6 +39,6 @@
 [87. 扰乱字符串 scramble-string](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/hard/87%20scramble-string.cpp)
 动态规划——转移方程：
 
-![转移方程](./pic/87.png)
+![转移方程 /pic/87.png](./pic/87.png)
 
 其中：n表示s1.length==s2.length，*s*1(*x*,*y*) 表示从 *s*1 从第 x个字符（从 0开始编号）开始，长度为 y的子串
