@@ -14,9 +14,11 @@
 
 ### 题目难度——简单
 
-[26. 删除有序数组中的重复项](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/26%20remove-duplicates-from-sorted-array.cpp)
+[26. 删除有序数组中的重复项 remove-duplicates-from-sorted-array](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/26%20remove-duplicates-from-sorted-array.cpp)
 
-[27. 移除元素](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/27%20remove-element.cpp)
+[27. 移除元素 remove-element](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/27%20remove-element.cpp)
+
+[28. 实现 strStr() implement-strstr KMP算法](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/28实现strStr.cpp)
 
 [783. 二叉搜索树节点最小距离 minimum-distance-between-bst-nodes](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/783%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%8A%82%E7%82%B9%E6%9C%80%E5%B0%8F%E8%B7%9D%E7%A6%BB%20AC.cpp)
 这道题和第530题要解决的问题相同
