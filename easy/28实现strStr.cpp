@@ -63,3 +63,10 @@ int main() {
 	cout << strStr("mississippi", "issi") << endl;
 	return 0;
 }
+
+/*
+解答此题时遗留几个问题，今天时间不够，之后解决：
+1. 第19行原本写的是k<needle.length()，但是当k=-1的时候，该语句判为false？？？
+2. 构建next数组的时候while(j<len-1)不符合我的习惯，能否修改代码实现j<len,并且得到正确的next数组
+3. kmp存在优化算法
+*/
