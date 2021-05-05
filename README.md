@@ -38,6 +38,8 @@
 
 [264. 丑数Ⅱ ugly-number-ii](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/264%20%E4%B8%91%E6%95%B02%20AC.cpp)
 
+[740. 删除并获得点数](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/740delete-and-earn.cpp)
+
 ### 题目难度——困难
 
 [87. 扰乱字符串 scramble-string](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/hard/87%20scramble-string.cpp)
