@@ -23,6 +23,8 @@
 
 ![783 运行截图 /pic/783.jpg](pic/783.jpg)
 
+[1486. 数组异或操作](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/1486xor-operation-in-an-array.cpp)
+
 
 ### 题目难度——中等
 
