@@ -52,3 +52,5 @@
 其中：n表示s1.length==s2.length，*s*1(*x*,*y*) 表示从 *s*1 从第 x个字符（从 0开始编号）开始，长度为 y的子串
 
 [1473. 粉刷房子Ⅲ](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/hard/1473-iteration-AC.cpp)
+
+[1723. 完成所有工作的最短时间](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/hard/1723find-minimum-time-to-finish-all-jobs.cpp)
