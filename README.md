@@ -10,6 +10,10 @@
 
 看到一个解决github无法显示图片的解决办法，指路☞[【小技巧】(超详细！)解决Github无法显示图片以及README无法显示图片](https://blog.csdn.net/qq_41709370/article/details/106282229)
 
+## C++
+
+> 以下列表中标出的题目是使用C++完成解题的，具体的思路在文件中通过注释标出
+
 ### 题目难度——简单
 
 [26. 删除有序数组中的重复项 remove-duplicates-from-sorted-array](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/26%20remove-duplicates-from-sorted-array.cpp)
@@ -54,3 +58,18 @@
 [1473. 粉刷房子Ⅲ](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/hard/1473-iteration-AC.cpp)
 
 [1723. 完成所有工作的最短时间](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/hard/1723find-minimum-time-to-finish-all-jobs.cpp)
+
+## python 3
+
+> 因为个人原因，需要学习python，所以之后的题目使用python完成
+
+### 题目难度——简单
+
+
+
+
+### 题目难度——中等
+
+[1846. 减小和重新排列数组后的最大元素](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/)(感觉并不能算中等难度的一道题)
+
+### 题目难度——困难
