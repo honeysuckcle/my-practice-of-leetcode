@@ -1,3 +1,6 @@
+"""
+Date: 2021/8/28
+"""
 def runningSum(self, nums):
         res = []
         for i in range(len(nums)):
