@@ -64,12 +64,29 @@
 > 因为个人原因，需要学习python，所以之后的题目使用python完成
 
 ### 题目难度——简单
+[7. 整数反转](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/7.reverse-integer.py)
 
+[1480. 一维数组的动态和](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/1480running-sum-of-1d-array.py)
 
+[1588. 所有奇数长度子数组的和](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/1588sum-of-all-odd-length-subarrays.py)
 
+[剑指 Offer 22. 链表中倒数第k个节点](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/%E5%89%91%E6%8C%87%20Offer%2022.%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.py)
+
+[剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/offer53-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.py)
 
 ### 题目难度——中等
+[165. 比较版本号](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/165%20compare-version-numbers.py)
+
+[528. 按权重随机选择](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/528random-pick-with-weight.py)
+
+[1109. 航班预订统计](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/1109corporate-flight-bookings.py)
+
+[1743. 从相邻元素对还原数组](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/1743.restore-the-array-from-adjacent-pairs/AC.py)
+
+[1838. 最高频元素的频数](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/1838%20frequency-of-the-most-frequent-element.py)
 
 [1846. 减小和重新排列数组后的最大元素](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/)(感觉并不能算中等难度的一道题)
+
+[面试题 17.14. 最小K个数](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.14.%20%E6%9C%80%E5%B0%8FK%E4%B8%AA%E6%95%B0.py)
 
 ### 题目难度——困难
