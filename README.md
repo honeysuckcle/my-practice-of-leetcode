@@ -70,6 +70,8 @@
 
 [1588. 所有奇数长度子数组的和](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/1588sum-of-all-odd-length-subarrays.py)
 
+剑指 Offer 10- I. 斐波那契数列
+
 [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/%E5%89%91%E6%8C%87%20Offer%2022.%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.py)
 
 [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/offer53-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.py)
