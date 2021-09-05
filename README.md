@@ -79,6 +79,8 @@
 ### 题目难度——中等
 [165. 比较版本号](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/165%20compare-version-numbers.py)
 
+[470. 用 Rand7() 实现 Rand10()]
+
 [528. 按权重随机选择](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/528random-pick-with-weight.py)
 
 [1109. 航班预订统计](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/1109corporate-flight-bookings.py)
