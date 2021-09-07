@@ -68,6 +68,8 @@
 
 [704. 二分查找]
 
+[1221. 分割平衡字符串]
+
 [1480. 一维数组的动态和](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/1480running-sum-of-1d-array.py)
 
 [1588. 所有奇数长度子数组的和](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/1588sum-of-all-odd-length-subarrays.py)
