@@ -18,11 +18,13 @@ Date: 2021/9/8
     https://www.runoob.com/python/att-list-sort.html
 
 """
+from typing import List
+import heapq
 
 class Solution:
     def findMaximizedCapital(self, k: int, w: int, profits: List[int], capital: List[int]) -> int:
         if w >= max(capital):
-            return w + sum(nlargest(k, profits))
+            return w + sum(heapq.nlargest(k, profits))
         
         curr = 0
         n = len(profits)
@@ -35,11 +37,11 @@ class Solution:
 
         for _ in range(k):
             while curr < n and arr[curr][0] <= w:
-                heappush(pq, -1 * arr[curr][1])
+                heapq.heappush(pq, -1 * arr[curr][1])
                 curr += 1
             
             if pq:
-                w -= heappop(pq)
+                w -= heapq.heappop(pq)
             else:
                 break
         return w
