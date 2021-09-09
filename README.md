@@ -98,3 +98,5 @@
 [面试题 17.14. 最小K个数](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.14.%20%E6%9C%80%E5%B0%8FK%E4%B8%AA%E6%95%B0.py)
 
 ### 题目难度——困难
+
+[502. IPO]
