@@ -83,6 +83,8 @@
 ### 题目难度——中等
 [165. 比较版本号](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/165%20compare-version-numbers.py)
 
+[447. 回旋镖的数量]
+
 [470. 用 Rand7() 实现 Rand10()]
 
 [528. 按权重随机选择](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/528random-pick-with-weight.py)
