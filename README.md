@@ -81,6 +81,9 @@
 [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/easy/offer53-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.py)
 
 ### 题目难度——中等
+
+[162. 寻找峰值]
+
 [165. 比较版本号](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/165%20compare-version-numbers.py)
 
 [447. 回旋镖的数量]
