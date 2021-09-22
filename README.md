@@ -92,6 +92,8 @@
 
 [528. 按权重随机选择](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/528random-pick-with-weight.py)
 
+[725. 分隔链表]
+
 [1109. 航班预订统计](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/1109corporate-flight-bookings.py)
 
 [1743. 从相邻元素对还原数组](https://github.com/honeysuckcle/my-practice-of-leetcode/blob/main/medium/1743.restore-the-array-from-adjacent-pairs/AC.py)
