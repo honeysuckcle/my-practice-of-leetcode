@@ -10,6 +10,11 @@
 
 看到一个解决github无法显示图片的解决办法，指路☞[【小技巧】(超详细！)解决Github无法显示图片以及README无法显示图片](https://blog.csdn.net/qq_41709370/article/details/106282229)
 
+## 大多数题目使用python完成
+
+Two week competition：双周周赛
+Weekly competition：单周周赛
+
 ## C++
 
 > 以下列表中标出的题目是使用C++完成解题的，具体的思路在文件中通过注释标出
