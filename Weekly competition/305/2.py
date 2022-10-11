@@ -2,11 +2,13 @@ from typing import List
 def reachableNodes(n: int, edges: List[List[int]], restricted: List[int]) -> int:
     graph = [[] for j in range(n)]
     for e in edges:
-        if e[0] not in restricted and e[1] not in restricted:
-            graph[e[0]].append(e[1])
-            graph[e[1]].append(e[0])
+        graph[e[0]].append(e[1])
+        graph[e[1]].append(e[0])
     passed = [False for i in range(n)]
     passed[0] = True
+    for restr in restricted:
+        passed[restr] = True
+    res = 1
     stack = [0]
     while len(stack) != 0:
         node = stack.pop()
@@ -14,10 +16,7 @@ def reachableNodes(n: int, edges: List[List[int]], restricted: List[int]) -> int
             if passed[i] == False:
                 stack.append(i)
                 passed[i] = True
-    res = 0
-    for p in passed:
-        if p:
-            res +=1
+                res += 1
     return res
 
 
